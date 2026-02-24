@@ -1,0 +1,10 @@
+Name: HONDA FIT GP5 
+Year: 2015
+Type: HATCHBACK
+Price: $9700
+Mileage: 97000KM
+Transmission: AUTOMATIC
+Zinara: UP-TO-DATE
+Location: BULAWAYO
+Status: AVAILABLE
+Read More: Lady Driven, Gentle on gears, No rough rides 

@@ -3,7 +3,7 @@ Year: 2023
 Type: SUV
 Price: $250000
 Mileage: 15000KM
-Transmission: MANUAL
+Transmission: AUTOMATIC
 Zinara: UP-TO-DATE
 Location: BULAWAYO
 Status: AVAILABLE

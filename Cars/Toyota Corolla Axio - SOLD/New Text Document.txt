@@ -1,4 +1,4 @@
-Name: TOYOTA COROLLA
+Name: TOYOTA COROLLA AXIO
 Year: 2016
 Type: SEDAN
 Price: $10000
@@ -6,5 +6,5 @@ Mileage: 74650KM
 Transmission: AUTOMATIC
 Zinara: UP-TO-DATE
 Location: BULAWAYO
-Status: AVAILABLE
+Status: SOLD
 Read More: 
