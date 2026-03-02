@@ -1,0 +1,10 @@
+Name: ISUZU D-MAX
+Year: 2021
+Type: TRUCK
+Price: $70000
+Mileage: 19000KM
+Transmission: AUTOMATIC
+Zinara: UP-TO-DATE
+Location: BULAWAYO
+Status: AVAILABLE
+Read More: recent import

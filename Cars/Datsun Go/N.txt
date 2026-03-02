@@ -1,0 +1,10 @@
+Name: DATSUN GO 
+Year: 2019
+Type: HATCHBACK
+Price: $10500
+Mileage: 85000KM
+Transmission: MANUAL
+Zinara: UP-TO-DATE
+Location: BULAWAYO
+Status: AVAILABLE
+Read More: recent import

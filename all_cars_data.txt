@@ -418,3 +418,27 @@ Zinara: UP-TO-DATE
 Location: BULAWAYO
 Status: AVAILABLE
 Read More: Lady Driven, Gentle on gears, No rough rides
+
+--- File: C:\Users\dell\.gemini\antigravity\scratch\zyamutala_web\Cars\Isuzu D-Max\N.txt ---
+Name: ISUZU D-MAX
+Year: 2021
+Type: TRUCK
+Price: $70000
+Mileage: 19000KM
+Transmission: AUTOMATIC
+Zinara: UP-TO-DATE
+Location: BULAWAYO
+Status: AVAILABLE
+Read More: recent import
+
+--- File: C:\Users\dell\.gemini\antigravity\scratch\zyamutala_web\Cars\Datsun Go\N.txt ---
+Name: DATSUN GO
+Year: 2019
+Type: HATCHBACK
+Price: $10500
+Mileage: 85000KM
+Transmission: MANUAL
+Zinara: UP-TO-DATE
+Location: BULAWAYO
+Status: AVAILABLE
+Read More: recent import
